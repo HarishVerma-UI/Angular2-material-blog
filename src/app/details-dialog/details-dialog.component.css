@@ -1,0 +1,13 @@
+.img{
+    width: 194px;
+    padding: 16px;
+}
+.img_wrp {
+  display: block;
+  width:55%;
+}
+.close {
+    top: 0;
+    right: 0;
+    float: right;
+}
